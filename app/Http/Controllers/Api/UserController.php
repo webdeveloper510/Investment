@@ -60,6 +60,11 @@ class UserController extends Controller
         }
     }
 
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
 // ------------------------------------------------Investor Details-------------------------------------------------//
 
     public function investorDetails()
